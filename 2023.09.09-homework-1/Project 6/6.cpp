@@ -1,11 +1,10 @@
 #include<iostream>
 int main(int argc, char* argv[])
 {
-    int a=0;
-    int b=0;
+    int a = 0;
+    int b = 0;
     std::cin >> a;
     std::cin >> b;
-    int c=a+b;
-    std::cout << a << "+" << b << "=" << c << std::endl;
+    std::cout << ( a * ( a / b ) + b * ( b / a ) ) / ( b / a + a / b ) << std::endl;
     return EXIT_SUCCESS;
 }
