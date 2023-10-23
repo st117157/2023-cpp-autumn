@@ -5,17 +5,6 @@ int main(int argc, char *argv[])
     int systemanswer = 0;
     std::cin >> answer;
     std::cin >> systemanswer;
-    if (answer == 1 && systemanswer == 1)
-    {
-        std::cout << "YES";
-    }
-    else if (answer != 1 && systemanswer != 1)
-    {
-        std::cout << "YES";
-    }
-    else
-    {
-        std::cout << "NO";
-    }
+    std::cout << ((answer == 1) == (systemanswer == 1) ? "YES" : "NO");
     return EXIT_SUCCESS;
 }
