@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\assuo\source\repos\Project2MATRIX\Project2MATRIX\MyForm.h(166,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\assuo\source\repos\Project2MATRIX\Project2MATRIX\MyForm.h(167,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\assuo\source\repos\Project2MATRIX\Project2MATRIX\MyForm.h(168,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2MATRIX.vcxproj -> C:\Users\assuo\source\repos\Project2MATRIX\x64\Debug\Project2MATRIX.exe

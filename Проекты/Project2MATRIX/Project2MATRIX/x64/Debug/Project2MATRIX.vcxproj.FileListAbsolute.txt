@@ -1,0 +1,3 @@
+C:\Users\assuo\source\repos\Project2MATRIX\Project2MATRIX\x64\Debug\Project2MATRIX.vcxproj.AssemblyReference.cache
+C:\Users\assuo\source\repos\Project2MATRIX\Project2MATRIX\x64\Debug\Project2MATRIX.MyForm.resources
+C:\Users\assuo\source\repos\Project2MATRIX\Project2MATRIX\x64\Debug\Project2MATRIX.vcxproj.GenerateResource.cache
